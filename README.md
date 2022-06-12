@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://khasanmeliev.herokuapp.com/](https://khasanmeliev.herokuapp.com/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Front End Development**
 
 - 📫 How to reach me **khasanmeliev2@gmail.com**
 
