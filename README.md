@@ -17,12 +17,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/khasan meliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="khasan meliev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khasan meliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khasan meliev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/khasan meliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="khasan meliev" height="30" width="40" /></a>
-<a href="https://codesandbox.com/khasan meliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="khasan meliev" height="30" width="40" /></a>
-<a href="https://instagram.com/coding_khasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coding_khasan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/coding khasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding khasan" height="30" width="40" /></a>
+<a href="https://codepen.io/khasan-meliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="khasan meliev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khasan-meliev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khasan meliev" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16182178/khasan-meliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="khasan meliev" height="30" width="40" /></a>
+<a href="https://www.instagram.com/coding_khasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coding_khasan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCzxxp-R3-05kx_SbYXdrahQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingkhasan" height="30" width="40" /></a>
+ <a href="https://www.youtube.com/channel/UC47Z_t6XC4sp6J9CqBTQ-2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="FootballChannel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
