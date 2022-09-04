@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khasanmeliev&label=Profile%20views&color=0e75b6&style=flat" alt="khasanmeliev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khasanmeliev" alt="khasanmeliev" /></a> </p>
 
 - 🌱 I’m currently learning **React JS**
 
@@ -31,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khasanmeliev&show_icons=true&locale=en&layout=compact" alt="khasanmeliev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khasanmeliev&show_icons=true&locale=en" alt="khasanmeliev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khasanmeliev&" alt="khasanmeliev" /></p>
