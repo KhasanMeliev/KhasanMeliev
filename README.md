@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://khasanmeliev.herokuapp.com/](https://khasanmeliev.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://khasanmeliev.herokuapp.com/](https://khasanmeliev.netlify.app/)
 
 - 💬 Ask me about **Front End Development**
 
