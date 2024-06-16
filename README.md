@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khasanmeliev&label=Profile%20views&color=0e75b6&style=flat" alt="khasanmeliev" /> </p>
 
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS and Python too**
 
 - 👨‍💻 All of my projects are available at [https://khasanmeliev.herokuapp.com/](https://khasanmeliev.netlify.app/)
 
